@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #231008; /* brand-brown */
+  color: #F5E8D8; /* brand-beige */
+  -webkit-font-smoothing: antialiased; /* Makes text look sharper/thinner */
+}
